@@ -1,7 +1,3 @@
-以下は、PowerShell スクリプト `Fetch-CVE.ps1` 用の `README.md` の例です。このスクリプトは、NVD（National Vulnerability Database）から CVE データを取得し、JSON 形式で保存するものです。引数として `-j` を指定すると、日本時間に変換して処理を行います。
-
----
-
 # Fetch-CVE.ps1
 
 `Fetch-CVE.ps1` は、NVD（National Vulnerability Database）から CVE（Common Vulnerabilities and Exposures）データを取得し、JSON 形式で保存する PowerShell スクリプトです。引数として `-j` を指定すると、日本時間（JST）に変換して処理を行います。
@@ -56,7 +52,3 @@
 ## ライセンス
 
 このスクリプトは MIT ライセンスの下で提供されています。
-
----
-
-この `README.md` をプロジェクトのルートディレクトリに配置することで、GitHub 上でプロジェクトの概要や使用方法を明確に伝えることができます。必要に応じて、プロジェクトの目的や詳細な使用例、貢献方法などを追加してください。
